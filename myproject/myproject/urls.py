@@ -23,4 +23,5 @@ from webapp import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('teacher/', views.teacherlist.as_view()),
+    path('student/', views.studentlist.as_view()),
 ]
