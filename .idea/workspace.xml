@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b5719b-703b-4b85-9d81-94524206759f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/myproject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/webapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/webapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myproject/webapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/webapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/webapp/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/webapp/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/webapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/webapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
