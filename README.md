@@ -33,4 +33,8 @@ Admin can be able to list every user in the database. Admin can add as many user
  
  Student Login using JWT Authentication : http://127.0.0.1:8000/api-auth/login/?next=/student/
  
+ ![dj-5](https://user-images.githubusercontent.com/47775251/89607065-405d4a00-d88f-11ea-8ad4-460658bb2caa.png)
+ 
+ 
+ 
  
