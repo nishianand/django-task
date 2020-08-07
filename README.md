@@ -15,6 +15,10 @@ http://127.0.0.1:8000/admin/login/?next=/admin/
 
 Teacher can able to list all the students. Here is the permission given to the teacher by super user 'admin'.
 
+![dj-3](https://user-images.githubusercontent.com/47775251/89605141-751ad280-d88a-11ea-8e9a-f3d82dd65779.png)
+
+
+
 Admin can be able to list every user in the database. Admin can add as many user. Admin can make new groups. 
 
 
