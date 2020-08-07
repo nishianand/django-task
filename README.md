@@ -39,4 +39,12 @@ Admin can be able to list every user in the database. Admin can add as many user
  
  
  
+ Teacher List :- Using Restful api in django.
+ 
+ ![dj-6](https://user-images.githubusercontent.com/47775251/89607273-b8c40b00-d88f-11ea-8533-d110fde7a923.png)
+ 
+ 
+ 
+ 
+ 
  
