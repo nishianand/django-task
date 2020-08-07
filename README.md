@@ -6,6 +6,8 @@ Three user levels : 1. Super-admin, 2. Teacher, 3. Student.
 
 http://127.0.0.1:8000/admin/login/?next=/admin/
 
+![dj-1](https://user-images.githubusercontent.com/47775251/89604819-ae067780-d889-11ea-9ce3-d0ed385cda31.png)
+
 
 Teacher can able to list all the students. Here is the permission given to the teacher by super user 'admin'.
 
