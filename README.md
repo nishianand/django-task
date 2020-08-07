@@ -44,6 +44,8 @@ Admin can be able to list every user in the database. Admin can add as many user
  
 Student List :- Using Restful api in django.
 
+![dj-7](https://user-images.githubusercontent.com/47775251/89607766-ea89a180-d890-11ea-8c74-e4401c61dbfc.png)
+
 
 
  
