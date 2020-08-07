@@ -21,6 +21,10 @@ Teacher can able to list all the students. Here is the permission given to the t
 
 Admin can be able to list every user in the database. Admin can add as many user. Admin can make new groups. 
 
+![dj-4](https://user-images.githubusercontent.com/47775251/89605340-e8bcdf80-d88a-11ea-9e38-4c85c10c9766.png)
+
+
+
 
  I have used JWT authentication in this project.
  JSON Web Token is an open standard for securely transferring data within parties using a JSON object. 
