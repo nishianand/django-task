@@ -4,6 +4,9 @@ It contains following things :-
 
 Three user levels : 1. Super-admin, 2. Teacher, 3. Student.
 
+http://127.0.0.1:8000/admin/login/?next=/admin/
+
+
 Teacher can able to list all the students. Here is the permission given to the teacher by super user 'admin'.
 
 Admin can be able to list every user in the database. Admin can add as many user. Admin can make new groups. 
