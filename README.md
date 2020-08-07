@@ -31,4 +31,6 @@ Admin can be able to list every user in the database. Admin can add as many user
  JWT is used for stateless authentication mechanisms for users and providers, this means maintaining session is on the client-side instead of storing sessions on the server.
  we need to authenticate and obtain the token.
  
+ Student Login using JWT Authentication : http://127.0.0.1:8000/api-auth/login/?next=/student/
+ 
  
